@@ -32,7 +32,7 @@ class SenangpayTest extends TestCase
             'track' => 'asdfasdfsdf',
             'cancel_url' => route('payment.failed'),
             'success_url' => route('payment.success'),
-            'email' => 'dvrobin4@gmail.com',
+            'email' => 'andrei3008@gmail.com',
             'name' => 'sharifur rahman',
             'payment_type' => 'order',
         ]);

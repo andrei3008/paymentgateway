@@ -91,7 +91,7 @@ $response =  $paytm->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -164,7 +164,7 @@ $response =  $paytm->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -213,7 +213,7 @@ $response =  $paypal->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -254,7 +254,7 @@ $response =  $stripe->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -292,7 +292,7 @@ $response =  $midtrans->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -358,7 +358,7 @@ $response =  $razorpay->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -407,7 +407,7 @@ $response =  $mollie->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -476,7 +476,7 @@ $response =  $flutterwave->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -535,7 +535,7 @@ $response =  $paystack->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -606,7 +606,7 @@ $response =  $payfast->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -675,7 +675,7 @@ $response =  $cashfree->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -735,7 +735,7 @@ $response =  $instamojo->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -794,7 +794,7 @@ $response =  $marcadopago->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -874,7 +874,7 @@ $response =  $squareup->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -953,7 +953,7 @@ $response =  $paytabs->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -1011,7 +1011,7 @@ $response =  $billplz->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -1285,7 +1285,7 @@ return $toyyibpay->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
     'phone' => 12345678
@@ -1348,7 +1348,7 @@ $response =  $pagali->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -1394,7 +1394,7 @@ $response =  $authorize->charge_customer([
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rhamna',
     'payment_type' => 'order',
 ]);
@@ -1454,7 +1454,7 @@ $sitesway = XgPaymentGateway::sitesway();
             'track' => 'asdfasdfsdf',
             'cancel_url' => route('payment.failed'),
             'success_url' => route('payment.success'),
-            'email' => 'dvrobin4@gmail.com',
+            'email' => 'andrei3008@gmail.com',
             'name' => 'sharifur rhamna',
             'payment_type' => 'order',
         ]);
@@ -1501,7 +1501,7 @@ Route::get('/wipay-ipn', [\App\Http\Controllers\PaymentLogController::class,'wip
         'track' => 'asdfasdfsdf',
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
-        'email' => 'dvrobin4@gmail.com',
+        'email' => 'andrei3008@gmail.com',
         'name' => 'sharifur rahman',
         'payment_type' => 'order',
     ]);
@@ -1555,7 +1555,7 @@ please note, TransactionCloud send all the ipn response to one single route whic
         'track' => 'asdfasdfsdf',
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
-        'email' => 'dvrobin4@gmail.com',
+        'email' => 'andrei3008@gmail.com',
         'name' => 'sharifur rahman',
         'payment_type' => 'order',
     ]);
@@ -1618,7 +1618,7 @@ class VerifyCsrfToken extends Middleware
         'track' => 'asdfasdfsdf',
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
-        'email' => 'dvrobin4@gmail.com',
+        'email' => 'andrei3008@gmail.com',
         'name' => 'sharifur rahman',
         'payment_type' => 'order',
     ]);
@@ -1668,7 +1668,7 @@ you must have to add this url to senangpay merchant panel as return url, you can
         'track' => 'asdfasdfsdf',
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
-        'email' => 'dvrobin4@gmail.com',
+        'email' => 'andrei3008@gmail.com',
         'name' => 'sharifur rahman',
         'payment_type' => 'order',
     ]);
@@ -1708,7 +1708,7 @@ you must have to add this url to senangpay merchant panel as return url, you can
     'track' => 'asdfasdfsdf',
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
-    'email' => 'dvrobin4@gmail.com',
+    'email' => 'andrei3008@gmail.com',
     'name' => 'sharifur rahman',
     'payment_type' => 'order',
 ]);
@@ -1789,7 +1789,7 @@ class VerifyCsrfToken extends Middleware
         'track' => 'asdfasdfsdf',
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
-        'email' => 'dvrobin4@gmail.com',
+        'email' => 'andrei3008@gmail.com',
         'name' => 'sharifur rahman',
         'payment_type' => 'order',
     ]);
@@ -1857,7 +1857,7 @@ class VerifyCsrfToken extends Middleware
         'track' => 'asdfasdfsdf',
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
-        'email' => 'dvrobin4@gmail.com',
+        'email' => 'andrei3008@gmail.com',
         'name' => 'sharifur rahman',
         'payment_type' => 'order',
     ]);
