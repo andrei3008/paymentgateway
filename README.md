@@ -92,7 +92,7 @@ $response =  $paytm->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -165,7 +165,7 @@ $response =  $paytm->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -214,7 +214,7 @@ $response =  $paypal->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -255,7 +255,7 @@ $response =  $stripe->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -293,7 +293,7 @@ $response =  $midtrans->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -359,7 +359,7 @@ $response =  $razorpay->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -408,7 +408,7 @@ $response =  $mollie->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -477,7 +477,7 @@ $response =  $flutterwave->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -536,7 +536,7 @@ $response =  $paystack->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -607,7 +607,7 @@ $response =  $payfast->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -676,7 +676,7 @@ $response =  $cashfree->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -736,7 +736,7 @@ $response =  $instamojo->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -795,7 +795,7 @@ $response =  $marcadopago->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -875,7 +875,7 @@ $response =  $squareup->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
  return $response;
@@ -954,7 +954,7 @@ $response =  $paytabs->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -1012,7 +1012,7 @@ $response =  $billplz->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 return $response;
@@ -1286,7 +1286,7 @@ return $toyyibpay->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
     'phone' => 12345678
 ]);
@@ -1349,7 +1349,7 @@ $response =  $pagali->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 ```
@@ -1395,7 +1395,7 @@ $response =  $authorize->charge_customer([
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rhamna',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 ```
@@ -1455,7 +1455,7 @@ $sitesway = XgPaymentGateway::sitesway();
             'cancel_url' => route('payment.failed'),
             'success_url' => route('payment.success'),
             'email' => 'andrei3008@gmail.com',
-            'name' => 'sharifur rhamna',
+            'name' => 'andrei',
             'payment_type' => 'order',
         ]);
         return $response;
