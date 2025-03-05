@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "74c4393c17b30f48f17609c440c5d1d3",
+    "content-hash": "7316d06af3d38651ccfaec046a3deb61",
     "packages": [
         {
             "name": "anandsiddharth/laravel-paytm-wallet",
@@ -4088,7 +4088,7 @@
         },
         {
             "name": "paytabscom/laravel_paytabs",
-            "version": "dev-master",
+            "version": "1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paytabscom/paytabs-php-laravel-package.git",
@@ -4103,7 +4103,6 @@
             "require": {
                 "php": "^7.0|^8.0"
             },
-            "default-branch": true,
             "type": "composer-package",
             "autoload": {
                 "psr-4": {
@@ -11289,9 +11288,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "paytabscom/laravel_paytabs": 20
-    },
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
