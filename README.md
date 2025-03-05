@@ -10,7 +10,7 @@ add below code to your ``composer.json`` file
  "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Sharifur/paymentgateway.git"
+            "url": "https://github.com/andrei3008/paymentgateway.git"
         }
     ],
 ````
@@ -1502,7 +1502,7 @@ Route::get('/wipay-ipn', [\App\Http\Controllers\PaymentLogController::class,'wip
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
         'email' => 'andrei3008@gmail.com',
-        'name' => 'sharifur rahman',
+        'name' => 'andrei',
         'payment_type' => 'order',
     ]);
     return $response;
@@ -1556,7 +1556,7 @@ please note, TransactionCloud send all the ipn response to one single route whic
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
         'email' => 'andrei3008@gmail.com',
-        'name' => 'sharifur rahman',
+        'name' => 'andrei',
         'payment_type' => 'order',
     ]);
     return $response;
@@ -1619,7 +1619,7 @@ class VerifyCsrfToken extends Middleware
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
         'email' => 'andrei3008@gmail.com',
-        'name' => 'sharifur rahman',
+        'name' => 'andrei',
         'payment_type' => 'order',
     ]);
     return $response;
@@ -1669,7 +1669,7 @@ you must have to add this url to senangpay merchant panel as return url, you can
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
         'email' => 'andrei3008@gmail.com',
-        'name' => 'sharifur rahman',
+        'name' => 'andrei',
         'payment_type' => 'order',
     ]);
     
@@ -1709,7 +1709,7 @@ you must have to add this url to senangpay merchant panel as return url, you can
     'cancel_url' => route('payment.failed'),
     'success_url' => route('payment.success'),
     'email' => 'andrei3008@gmail.com',
-    'name' => 'sharifur rahman',
+    'name' => 'andrei',
     'payment_type' => 'order',
 ]);
 
@@ -1790,7 +1790,7 @@ class VerifyCsrfToken extends Middleware
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
         'email' => 'andrei3008@gmail.com',
-        'name' => 'sharifur rahman',
+        'name' => 'andrei',
         'payment_type' => 'order',
     ]);
     return $response;
@@ -1858,7 +1858,7 @@ class VerifyCsrfToken extends Middleware
         'cancel_url' => route('payment.failed'),
         'success_url' => route('payment.success'),
         'email' => 'andrei3008@gmail.com',
-        'name' => 'sharifur rahman',
+        'name' => 'andrei',
         'payment_type' => 'order',
     ]);
     return $response;

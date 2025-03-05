@@ -33,7 +33,7 @@ class SenangpayTest extends TestCase
             'cancel_url' => route('payment.failed'),
             'success_url' => route('payment.success'),
             'email' => 'andrei3008@gmail.com',
-            'name' => 'sharifur rahman',
+            'name' => 'andrei',
             'payment_type' => 'order',
         ]);
         $this->assertArrayHasKey('url', $response);
