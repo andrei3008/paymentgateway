@@ -13,8 +13,8 @@
     ],
     "homepage": "https://github.com/andrei3008/paymentgateway",
     "require": {
-        "php": "^8.0",
-        "laravel/framework": "^9.0",
+        "php": "^8.2",
+        "laravel/framework": "^9.0|^10.0",
         "stripe/stripe-php": "^7.103",
         "srmklive/paypal": "~3.0",
         "midtrans/midtrans-php": "^2.5",
