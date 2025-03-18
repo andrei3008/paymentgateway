@@ -23,7 +23,6 @@
         "mollie/laravel-mollie": "^2.0",
         "unicodeveloper/laravel-paystack": "1.0.*",
         "mercadopago/dx-php":"^2.4.4",
-        "tzsk/payu": "^6.0.0",
         "square/square": "18.0.0.20220420",
         "cinetpay/cinetpay-php": "^1.9",
         "paytabscom/laravel_paytabs": "^1.9",
