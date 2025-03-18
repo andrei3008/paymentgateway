@@ -27,7 +27,6 @@
         "cinetpay/cinetpay-php": "^1.9",
         "paytabscom/laravel_paytabs": "^1.9",
         "jomweb/billplz-laravel" : "^v3.0.0",
-        "sharifur/payfast" : "^v1.0.0",
         "authorizenet/authorizenet": "^2.0",
         "php-http/message": "^1.16",
         "php-http/message-factory": "^1.1",
